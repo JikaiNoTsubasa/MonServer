@@ -1,0 +1,26 @@
+Oct 07, 2020 3:19:58 PM fr.triedge.mon.server.Server init
+FINE: Creating task TaskAgentPing...
+Oct 07, 2020 3:19:58 PM fr.triedge.mon.server.Server init
+FINE: Task TaskAgentPing added to task pool
+Oct 07, 2020 3:19:58 PM fr.triedge.mon.server.Server init
+FINE: Task TaskAgentPing started
+Oct 07, 2020 3:19:58 PM fr.triedge.mon.server.Server start
+INFO: Server initialized with port: 2020
+Oct 07, 2020 3:19:58 PM fr.triedge.mon.server.Server start
+INFO: Server waiting for connections...
+Oct 07, 2020 3:20:28 PM fr.triedge.mon.server.Server pingAllAgents
+FINE: Ping agent localhost:2021...
+Oct 07, 2020 3:20:30 PM fr.triedge.mon.server.Server updateStatusAgent
+INFO: Agent status [localhost:2021] NOT REACHABLE
+Oct 07, 2020 3:20:58 PM fr.triedge.mon.server.Server pingAllAgents
+FINE: Ping agent localhost:2021...
+Oct 07, 2020 3:21:00 PM fr.triedge.mon.server.Server updateStatusAgent
+INFO: Agent status [localhost:2021] NOT REACHABLE
+Oct 07, 2020 3:21:28 PM fr.triedge.mon.server.Server pingAllAgents
+FINE: Ping agent localhost:2021...
+Oct 07, 2020 3:21:30 PM fr.triedge.mon.server.Server updateStatusAgent
+INFO: Agent status [localhost:2021] NOT REACHABLE
+Oct 07, 2020 3:21:58 PM fr.triedge.mon.server.Server pingAllAgents
+FINE: Ping agent localhost:2021...
+Oct 07, 2020 3:22:00 PM fr.triedge.mon.server.Server updateStatusAgent
+INFO: Agent status [localhost:2021] NOT REACHABLE
